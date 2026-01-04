@@ -1,6 +1,6 @@
 <img src="https://github.com/Asifmahmud436/Asifmahmud436/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png" alt="DP" width="100%">
 # 💫 About Me:
-🔭 I’m currently working on Django and Drf Projects<br>👯 I’m looking to collaborate on Django Projects<br>🤝 I’m looking for help with Drf<br>🌱 I’m currently learning Frontend<br>
+🔭 I’m currently working on AI and FastApi Projects<br>👯 I’m looking to collaborate on AI based Projects<br>🤝 I’m looking for help with new ideas<br>🌱 I’m currently learning to communicated briefly with machines<br>
 
 
 ## 🌐 Socials:
