@@ -1,94 +1,93 @@
-<div align="center">
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f23,50:1a1a2e,100:16213e&height=200&section=header&text=Asif%20Mahmud&fontSize=70&fontAlignY=45&desc=Backend%20%26%20AI%20Engineer&descSize=20&descAlignY=75&fontColor=ffffff" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Asif%20Mahmud&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Backend%20%26%20AI%20Engineer&descSize=16&descAlignY=85&descColor=a78bfa" width="100%"/>
+<!-- One-line identity -->
+<p align="center">
+  <samp>
+    Building <strong>scalable systems</strong> that listen, think, and respond.<br>
+    Backend Architecture · AI/ML Pipelines · Bangladesh-first Solutions
+  </samp>
+</p>
 
-</div>
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/asif-mahmud-3bb1a627a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@dominance-him">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br/>
+---
 
-<div align="center">
+## Core Competencies
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Engineering
+- **Backend**: FastAPI, Django REST, PostgreSQL, System Design
+- **AI/ML**: Speech-to-Text, LLM Integration, RAG Architecture, NLP Pipelines
+- **Data**: Database Modeling, Performance Optimization, Observability
+
+</td>
+<td width="50%" valign="top">
+
+### Philosophy
+- Architecture over hacks
+- Observability over blind execution
+- Automation over repetition
+- Ship → Measure → Iterate
+
+</td>
+</tr>
+</table>
+
+## Current Focus
+
+```python
+class CurrentWork:
+    building = ["AI-powered monitoring systems", "Speech processing APIs"]
+    learning = ["Advanced RAG patterns", "Distributed systems"]
+    location = "Dhaka, Bangladesh 🇧🇩"
 ```
-  API Architecture  ·  LLM Integration  ·  RAG Systems  ·  Speech Processing
-```
 
-</div>
+## Tech Stack
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### About
+## GitHub Analytics
 
-Backend and AI engineer focused on building systems that are clean, scalable, and actually useful. I work primarily with **FastAPI** and **Django REST** on the backend, and integrate **LLMs, RAG pipelines, and speech models** on the AI side. Based in 🇧🇩 Bangladesh — building for real problems, not demos.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asifmahmud436&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifmahmud436&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
 
----
-
-### Stack
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=a78bfa)
-![FastAPI](https://img.shields.io/badge/FastAPI-14151a?style=flat-square&logo=fastapi&logoColor=a78bfa)
-![Django](https://img.shields.io/badge/Django-14151a?style=flat-square&logo=django&logoColor=a78bfa)
-![DRF](https://img.shields.io/badge/Django_REST-14151a?style=flat-square&logo=django&logoColor=a78bfa)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14151a?style=flat-square&logo=postgresql&logoColor=a78bfa)
-![MySQL](https://img.shields.io/badge/MySQL-14151a?style=flat-square&logo=mysql&logoColor=a78bfa)
-![SQLite](https://img.shields.io/badge/SQLite-14151a?style=flat-square&logo=sqlite&logoColor=a78bfa)
-
-**AI / ML**
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-14151a?style=flat-square&logo=huggingface&logoColor=a78bfa)
-![OpenAI](https://img.shields.io/badge/OpenAI-14151a?style=flat-square&logo=openai&logoColor=a78bfa)
-![LangChain](https://img.shields.io/badge/LangChain-14151a?style=flat-square&logo=chainlink&logoColor=a78bfa)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-14151a?style=flat-square&logo=git&logoColor=a78bfa)
-![GitHub](https://img.shields.io/badge/GitHub-14151a?style=flat-square&logo=github&logoColor=a78bfa)
-![Docker](https://img.shields.io/badge/Docker-14151a?style=flat-square&logo=docker&logoColor=a78bfa)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asifmahmud436&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+</p>
 
 ---
 
-### Focus Areas
-
-| Domain | What I Build |
-|---|---|
-| **Backend Engineering** | RESTful APIs, auth systems, DB modeling, error handling |
-| **AI Engineering** | Speech-to-Text, NLP pipelines, LLM & RAG integration |
-| **System Design** | Observability, clean abstractions, scalable architecture |
-
----
-
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asifmahmud436&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asifmahmud436&theme=tokyonight&hide_border=true&background=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asifmahmud436&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/asif-mahmud-3bb1a627a/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/Asifmahmud436)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=a78bfa)](https://www.youtube.com/@dominance-him)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=a78bfa)](https://www.instagram.com/asif_mahmud_007/)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=a78bfa)](https://www.facebook.com/profile.php?id=100027762020044)
-
----
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+<!-- Footer -->
+<p align="center">
+  <samp>
+    <em>Open for collaboration on backend systems and AI infrastructure.</em><br>
+    <strong>asif.mahmud@example.com</strong>
+  </samp>
+</p>
