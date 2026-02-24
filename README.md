@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f23,50:1a1a2e,100:16213e&height=200&section=header&text=Asif%20Mahmud&fontSize=70&fontAlignY=45&desc=Backend%20%26%20AI%20Engineer&descSize=20&descAlignY=75&fontColor=ffffff" width="100%" />
+  <img src="https://github.com/Asifmahmud436/Asifmahmud436/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png" alt="DP" width="100%">
 </p>
 
 <!-- One-line identity -->
@@ -16,11 +16,14 @@
   <a href="https://www.linkedin.com/in/asif-mahmud-3bb1a627a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/asif_mahmud_007/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100027762020044">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
   <a href="https://www.youtube.com/@dominance-him">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -65,10 +68,12 @@ class CurrentWork:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ## GitHub Analytics
@@ -84,10 +89,6 @@ class CurrentWork:
 
 ---
 
-<!-- Footer -->
 <p align="center">
-  <samp>
-    <em>Open for collaboration on backend systems and AI infrastructure.</em><br>
-    <strong>asif.mahmud@example.com</strong>
-  </samp>
+  <samp><em>Open for collaboration on backend systems and AI infrastructure.</em></samp>
 </p>
