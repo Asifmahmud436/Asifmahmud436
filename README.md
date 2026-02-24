@@ -1,92 +1,94 @@
-<img src="https://github.com/Asifmahmud436/Asifmahmud436/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png" alt="DP" width="100%">
+<div align="center">
 
-# 👋 Hi, I’m Asif Mahmud
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Asif%20Mahmud&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Backend%20%26%20AI%20Engineer&descSize=16&descAlignY=85&descColor=a78bfa" width="100%"/>
 
-> ⚔️ Backend & AI Engineer building **systems that think and scale**  
-> I design clean APIs, intelligent pipelines, and real-world solutions.
+</div>
 
----
+<br/>
 
-## 🧠 Who I Am (In One Breath)
-- 🧩 Backend Engineer who cares about **architecture, performance, and reliability**
-- 🤖 AI Engineer focused on **Speech, NLP, LLMs, and intelligent automation**
-- 🇧🇩 Builder solving **Bangladesh-first, real-world problems**
-- 🛠️ I don’t just write code — I design **systems**
+<div align="center">
 
----
+```
+  API Architecture  ·  LLM Integration  ·  RAG Systems  ·  Speech Processing
+```
 
-## 🚀 What I’m Building Now
-- 🤖 AI-powered applications (Speech-to-Text, Monitoring, RAG systems)
-- ⚙️ Scalable Backend APIs using **FastAPI & Django REST**
-- 🧠 Teaching machines to **listen, understand, and respond**
-- 📊 Systems that can **observe, analyze, and report behavior**
+</div>
 
 ---
 
-## 🧩 Core Engineering Focus
+### About
 
-### 🔹 Backend Engineering
-- API Design & RESTful Architecture  
-- Authentication & Authorization  
-- Database Modeling (PostgreSQL, MySQL, SQLite)  
-- Performance, logging, and failure handling  
-
-### 🔹 AI Engineering
-- Speech-to-Text & Audio Processing  
-- NLP pipelines & LLM integration  
-- RAG systems & intelligent retrieval  
-- AI-assisted monitoring and analytics  
-
-### 🔹 System Thinking
-- Clean abstractions over hacks  
-- Observability > blind execution  
-- Automate repetitive pain  
-- Ship → Measure → Improve  
+Backend and AI engineer focused on building systems that are clean, scalable, and actually useful. I work primarily with **FastAPI** and **Django REST** on the backend, and integrate **LLMs, RAG pipelines, and speech models** on the AI side. Based in 🇧🇩 Bangladesh — building for real problems, not demos.
 
 ---
 
-## 🧠 Engineering Principles I Code By
-- Write code **humans can read**, not just machines
-- Build small, ship fast, iterate relentlessly
-- If it’s boring, I’m doing it wrong
-- Consistency beats motivation — every time
+### Stack
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=a78bfa)
+![FastAPI](https://img.shields.io/badge/FastAPI-14151a?style=flat-square&logo=fastapi&logoColor=a78bfa)
+![Django](https://img.shields.io/badge/Django-14151a?style=flat-square&logo=django&logoColor=a78bfa)
+![DRF](https://img.shields.io/badge/Django_REST-14151a?style=flat-square&logo=django&logoColor=a78bfa)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14151a?style=flat-square&logo=postgresql&logoColor=a78bfa)
+![MySQL](https://img.shields.io/badge/MySQL-14151a?style=flat-square&logo=mysql&logoColor=a78bfa)
+![SQLite](https://img.shields.io/badge/SQLite-14151a?style=flat-square&logo=sqlite&logoColor=a78bfa)
+
+**AI / ML**
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-14151a?style=flat-square&logo=huggingface&logoColor=a78bfa)
+![OpenAI](https://img.shields.io/badge/OpenAI-14151a?style=flat-square&logo=openai&logoColor=a78bfa)
+![LangChain](https://img.shields.io/badge/LangChain-14151a?style=flat-square&logo=chainlink&logoColor=a78bfa)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-14151a?style=flat-square&logo=git&logoColor=a78bfa)
+![GitHub](https://img.shields.io/badge/GitHub-14151a?style=flat-square&logo=github&logoColor=a78bfa)
+![Docker](https://img.shields.io/badge/Docker-14151a?style=flat-square&logo=docker&logoColor=a78bfa)
 
 ---
 
-## 🏹 Long-Term Vision
-- Become a **top-tier Backend + AI Engineer**
-- Build products that improve **education, accountability, and trust**
-- Create open-source tools that solve **real problems**, not demo problems
+### Focus Areas
+
+| Domain | What I Build |
+|---|---|
+| **Backend Engineering** | RESTful APIs, auth systems, DB modeling, error handling |
+| **AI Engineering** | Speech-to-Text, NLP pipelines, LLM & RAG integration |
+| **System Design** | Observability, clean abstractions, scalable architecture |
 
 ---
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027762020044)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asif_mahmud_007/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-mahmud-3bb1a627a/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dominance-him)
+### Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asifmahmud436&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asifmahmud436&theme=tokyonight&hide_border=true&background=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asifmahmud436&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/asif-mahmud-3bb1a627a/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/Asifmahmud436)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=a78bfa)](https://www.youtube.com/@dominance-him)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=a78bfa)](https://www.instagram.com/asif_mahmud_007/)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=a78bfa)](https://www.facebook.com/profile.php?id=100027762020044)
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Asifmahmud436&theme=tokyonight&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asifmahmud436&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asifmahmud436&theme=tokyonight&layout=compact)
+<div align="center">
 
----
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
