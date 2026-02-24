@@ -90,6 +90,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-⚡ *If you’re reading this, I’m probably coding right now.*
